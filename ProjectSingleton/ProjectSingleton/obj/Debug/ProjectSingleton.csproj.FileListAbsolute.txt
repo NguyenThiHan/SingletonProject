@@ -1,0 +1,14 @@
+D:\Intership\Console\ProjectSingleton\ProjectSingleton\bin\Debug\ProjectSingleton.exe.config
+D:\Intership\Console\ProjectSingleton\ProjectSingleton\bin\Debug\ProjectSingleton.exe
+D:\Intership\Console\ProjectSingleton\ProjectSingleton\bin\Debug\ProjectSingleton.pdb
+D:\Intership\Console\ProjectSingleton\ProjectSingleton\obj\Debug\ProjectSingleton.csprojAssemblyReference.cache
+D:\Intership\Console\ProjectSingleton\ProjectSingleton\obj\Debug\ProjectSingleton.csproj.CoreCompileInputs.cache
+D:\Intership\Console\ProjectSingleton\ProjectSingleton\obj\Debug\ProjectSingleton.exe
+D:\Intership\Console\ProjectSingleton\ProjectSingleton\obj\Debug\ProjectSingleton.pdb
+E:\Angular\ProjectSingleton\ProjectSingleton\ProjectSingleton\bin\Debug\ProjectSingleton.exe.config
+E:\Angular\ProjectSingleton\ProjectSingleton\ProjectSingleton\bin\Debug\ProjectSingleton.exe
+E:\Angular\ProjectSingleton\ProjectSingleton\ProjectSingleton\bin\Debug\ProjectSingleton.pdb
+E:\Angular\ProjectSingleton\ProjectSingleton\ProjectSingleton\obj\Debug\ProjectSingleton.csprojAssemblyReference.cache
+E:\Angular\ProjectSingleton\ProjectSingleton\ProjectSingleton\obj\Debug\ProjectSingleton.csproj.CoreCompileInputs.cache
+E:\Angular\ProjectSingleton\ProjectSingleton\ProjectSingleton\obj\Debug\ProjectSingleton.exe
+E:\Angular\ProjectSingleton\ProjectSingleton\ProjectSingleton\obj\Debug\ProjectSingleton.pdb

@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjectSingleton.Animal" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAACAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.Cat" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.Dog" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAEAAAAAAAAAAAEACAAAEAAAAAAAAA=</HashCode>
+      <FileName>AbstractSample.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjectSingleton.Fish" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAEACAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractSample.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjectSingleton.AbstractSample" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>AbstractSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.InterfaceSample" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>InterfaceSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.DaGiac">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAEAQAAAAAQAAAAAgAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>LopDaGiac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.LopHinhVuong">
+    <Position X="0.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>LopDaGiac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.LopDaGiac" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>LopDaGiac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.Program" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.Store" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>SingletonSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.Product" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAEAEAhAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SingletonSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.StoreSampleDB" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAAAAAAAAABAAIRACAAAAAAAAAQAAgAAAAIAA=</HashCode>
+      <FileName>SingletonSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.SingletonSample" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>SingletonSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.GangOfFour.Strategy.Structural.Strategy" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>StrategyPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.GangOfFour.Strategy.Structural.ConcreteStrategyA" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>StrategyPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.GangOfFour.Strategy.Structural.ConcreteStrategyB" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>StrategyPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.GangOfFour.Strategy.Structural.ConcreteStrategyC" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>StrategyPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.GangOfFour.Strategy.Structural.Context" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>StrategyPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectSingleton.GangOfFour.Strategy.Structural.StrategyPattern" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>StrategyPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProjectSingleton.ISwim" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractSample.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjectSingleton.ITalk" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>AbstractSample.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjectSingleton.ISing" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractSample.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
